@@ -16,6 +16,7 @@
 * This project was necessary to make this application accessible to all people regardless of their ability and make it easier for other developers to read and interpret the CSS code. 
 
 # Use
+* link to the deployed site: https://killingsworth-kristen.github.io/code-refactor/
 * At the top of the page is a navigation bar which will take you to the relevant sections of the application. Additionally, all images have alternate text which can be viewed in the browser by inspecting the elements. 
 
 # Credits
